@@ -1,4 +1,4 @@
 //Audio that plays over and over again (Rick Astley's song).
- audio = new Audio("http://www.here-and-now.info/audio/rickastley_artists.mp3");
+ audio = new Audio("https://soundspunos.com/uploads/files/2022-05/1651865406_1651485572_18775-rickroll354.mp3");
 audio.loop = true;
 audio.play();
